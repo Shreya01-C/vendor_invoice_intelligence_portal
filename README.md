@@ -12,10 +12,7 @@ An end-to-end Machine Learning project to **predict freight costs** and **identi
 - Exploratory Data Analysis  
 - Models Used  
 - Evaluation Metrics  
-- Application  
-- Project Structure  
-- How to Run This Project  
-- Author & Contact  
+- Application   
 
 ---
 
